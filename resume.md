@@ -2,7 +2,7 @@
 
 kaileydougherty@mines.edu | Golden, CO
 
-![The M at Sunset]("golden-at-sunset.jpg")
+![The M at Sunset](https://github.com/kaileydougherty/resume/blob/main/golden-at-sunset.jpg)
 
 ## **Education**
 
